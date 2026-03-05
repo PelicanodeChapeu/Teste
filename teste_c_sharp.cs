@@ -3,5 +3,5 @@ public class Main
     public int numero;
 
 
-    Console.WriteLine("hellor world");
+    Console.WriteLine("hello world");
 }
