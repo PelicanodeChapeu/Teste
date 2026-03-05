@@ -1,0 +1,7 @@
+C:\Users\Diversão Séria\source\repos\Funcao\Funcao\bin\Debug\Funcao.exe.config
+C:\Users\Diversão Séria\source\repos\Funcao\Funcao\bin\Debug\Funcao.exe
+C:\Users\Diversão Séria\source\repos\Funcao\Funcao\bin\Debug\Funcao.pdb
+C:\Users\Diversão Séria\source\repos\Funcao\Funcao\obj\Debug\Funcao.csproj.AssemblyReference.cache
+C:\Users\Diversão Séria\source\repos\Funcao\Funcao\obj\Debug\Funcao.csproj.CoreCompileInputs.cache
+C:\Users\Diversão Séria\source\repos\Funcao\Funcao\obj\Debug\Funcao.exe
+C:\Users\Diversão Séria\source\repos\Funcao\Funcao\obj\Debug\Funcao.pdb
