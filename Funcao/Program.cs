@@ -16,11 +16,14 @@ namespace Funcao
             Console.WriteLine("Hello World");
             Console.WriteLine(x);
 
-            Aluno aluno1 = new Aluno(321,"Alvaro");
-            Aluno aluno2 = new Aluno(654, "Guilherme");
+            Aluno aluno1 = new Aluno(321,"Alvaro", 2.2f);
+            Aluno aluno2 = new Aluno(654, "Ryan", 0);
+             
 
             Console.WriteLine(aluno1.id);
             Console.WriteLine($"O aluno 2 tem o ID {aluno2.id} e seu nome {aluno2.nome}");
+
+            aluno1.ExibirResultado();
 
             Console.ReadLine();
         }
